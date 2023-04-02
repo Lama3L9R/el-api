@@ -3,6 +3,8 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+## 请注意，本项目已弃用，即将将本项目合并到新项目 EduTools 中
+
 Project EL API Implementation but ultra high performance
 
 ---
